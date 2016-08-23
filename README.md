@@ -1,2 +1,2 @@
 # jssdk-location 获取当前地理位置
-![6ED3AE85-E06D-4E43-AEC5-B845536E7A69.png](https://ooo.0o0.ooo/2016/08/23/57bc32b3654ed.png)
+![6B737001-358C-4DB2-A135-D0DCE07EE641.png](https://ooo.0o0.ooo/2016/08/23/57bc343989094.png)
